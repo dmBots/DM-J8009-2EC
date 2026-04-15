@@ -1,22 +1,22 @@
 # DM-J8009-2EC
 
-## 概述
-- 这是 DM-J8009-2EC 减速电机资料入口。
-- 本目录只保留已确认的说明书、图纸、3D 模型和性能曲线资源。
-- 未确认内容保持 `TBD` 或 `Translation pending`，不在此处硬补。
+## Overview
+- This folder is the documentation entry for the DM-J8009-2EC gear motor.
+- It only keeps verified manual, drawing, 3D model, and performance-curve resources.
+- Unverified details stay marked as `TBD` or `Translation pending`.
 
-## 文档 / 资源
-- [说明书/](说明书/)
-- [2D图纸/](2D图纸/)
-- [3D模型/](3D模型/)
-- [性能曲线/](性能曲线/)
+## Documentation / Resources
+- [Manual/](说明书/)
+- [2D Drawings/](2D图纸/)
+- [3D Model/](3D模型/)
+- [Performance Curves/](性能曲线/)
 
-## 快速开始
-- 本目录没有独立的快速开始步骤。
-- 如需使用说明，请先阅读 [说明书/](说明书/)。
-- 如需查看外形和特性，请参考图纸、3D 模型和性能曲线。
+## Quick Start
+- This folder does not define a separate quick-start flow.
+- Start with the [Manual/](说明书/).
+- Use the drawings, 3D model, and performance curves as supporting references.
 
-## 状态
-- ZH: 主版
-- EN: Translation pending
-- TBD: 未确认信息保留空缺
+## Status
+- EN: main entry
+- ZH: source material exists in this subtree
+- TBD: unverified details remain pending
